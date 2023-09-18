@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(40, 38, 38);
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+p {
+    color: white;
+}
+img {
+    height: 400px;
+    width: 250px;
+}

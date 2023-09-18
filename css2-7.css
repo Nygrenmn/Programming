@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(86, 86, 86);
+}
+h1{
+    color: red;
+    font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: lightblue;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
