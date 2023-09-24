@@ -4,7 +4,7 @@
 /*    Programmet skriver ut alle registrerte personer på formen fornavn;etternavn
 */
 
-$filnanv="filer/navn.txt";
+$filnavn="filer/navn.txt";
 $filoperasjon="r"; /* filoperasjon r (for lesing) angitt */
 
   print ("F&oslash;lgende personer er registrert <br> <br>"); 
